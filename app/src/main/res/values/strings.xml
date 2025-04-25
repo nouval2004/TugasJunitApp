@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Discount Counter</string>
+    <string name="masukkan_harga">Masukkan Harga Barang</string>
+    <string name="masukkan_diskon">Masukkan Diskon (%)</string>
+    <string name="hitung_diskon">Hitung Diskon</string>
+    <string name="hasil_awal">Hasil akan muncul di sini</string>
+
+</resources>
